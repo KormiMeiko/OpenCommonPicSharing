@@ -15,7 +15,7 @@ https://github.com/KormiMeiko/OpenCommonPicSharing/wiki
 # 一起交♂流
 1.项目主页：http://cps.batabata.org/
 
-2.反馈QQ群：699659767
+2.反馈QQ群：（消失了！）
 
 # 其他
 我在此开源版本的基础上又做了一些完善，主要是线上分享传输，详细版本可以到项目主页里去查看。
