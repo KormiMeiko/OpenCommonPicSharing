@@ -10,4 +10,4 @@ PS：作者是个渣渣。程序不喜勿喷~
 如果可以给个Star呗~
 
 # 使用帮助
-https://github.com/KormiMeiko/OpenCommonPicSharing/wiki
+https://github.com/KormiMeiko/OpenCommonPicSharing/wiki/使用帮助
