@@ -11,11 +11,3 @@ PS：作者是个渣渣。程序不喜勿喷~
 
 # 使用帮助
 https://github.com/KormiMeiko/OpenCommonPicSharing/wiki
-
-# 一起交♂流
-1.项目主页：http://cps.batabata.org/
-
-2.反馈QQ群：（消失了！）
-
-# 其他
-我爬了先，告辞
